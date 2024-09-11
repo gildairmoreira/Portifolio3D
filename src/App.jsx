@@ -1,11 +1,12 @@
-import About from "./sections/About"
-import Clients from "./sections/Clients"
-import Contact from "./sections/Contact"
-import WorkExperience from "./sections/Experience"
-import Footer from "./sections/Footer"
-import Hero from "./sections/Hero"
-import Navbar from "./sections/Navbar"
-import Projects from "./sections/Projects"
+import About from "./sections/About.jsx"
+import Clients from "./sections/Clients.jsx"
+import Contact from "./sections/Contact.jsx"
+import WorkExperience from "./sections/Experience.jsx"
+import Footer from "./sections/Footer.jsx"
+import Hero from "./sections/Hero.jsx"
+import Navbar from "./sections/Navbar.jsx"
+import Projects from "./sections/Projects.jsx"
+
 
 function App() {
   return(
